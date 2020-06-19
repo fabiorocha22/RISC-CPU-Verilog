@@ -1,0 +1,46 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\fabio\Documents\Graduação\Engenharia de Computação\2018 - 1\ELTD05 - Projeto de Sistemas Digitais\Trabalho\verilogMIPS-master\simulation\modelsim
+vcpu
+InXPX]YT4`[c[DK]j;_AS70
+VcBGF5]O[lEY=;d:@dL67D3
+Z1 dC:\Users\fabio\Documents\Graduação\Engenharia de Computação\2018 - 1\ELTD05 - Projeto de Sistemas Digitais\Trabalho\verilogMIPS-master\simulation\modelsim
+w1530230984
+8CPU.vo
+FCPU.vo
+L0 31
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+!i10b 1
+!s100 PHNC0DFDJQNPIKGUc<4b71
+!s85 0
+!s108 1530231273.204000
+!s107 CPU.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|CPU.vo|
+!s101 -O0
+!s92 -vlog01compat -work work +incdir+. -O0
+vcpu_TB
+!i10b 1
+!s100 _cAl83_SXMIYUYRVdk[622
+IGjZj=JEkH`M^;aE`W8BBN1
+VIN<IM7YNJ[7bd<2haEel`1
+R1
+w1530229067
+8C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/cpu_TB.v
+FC:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/cpu_TB.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1530231274.472000
+!s107 C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/cpu_TB.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master|C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/cpu_TB.v|
+!s101 -O0
+R3
+!s92 -vlog01compat -work work {+incdir+C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master} -O0
+ncpu_@t@b

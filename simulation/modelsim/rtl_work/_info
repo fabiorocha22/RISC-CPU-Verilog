@@ -1,0 +1,226 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\fabio\Documents\Graduação\Engenharia de Computação\2018 - 1\ELTD05 - Projeto de Sistemas Digitais\Trabalho\verilogMIPS-master\simulation\modelsim
+valu
+IDj]5Y4XOVAU7?YWfjE7kN2
+V=_>2Tz`]X<N8AVW_8;Q7]2
+Z1 dC:\Users\fabio\Documents\Graduação\Engenharia de Computação\2018 - 1\ELTD05 - Projeto de Sistemas Digitais\Trabalho\verilogMIPS-master\simulation\modelsim
+Z2 w1529595008
+8C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/ALU/alu.v
+FC:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/ALU/alu.v
+L0 1
+Z3 OV;L;10.1d;51
+r1
+31
+Z4 o-vlog01compat -work work -O0
+!i10b 1
+!s100 8hb;38TY[S^30FVJQgan62
+!s85 0
+!s108 1530229102.473000
+!s107 C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/ALU/alu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/ALU|C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/ALU/alu.v|
+!s101 -O0
+!s92 -vlog01compat -work work {+incdir+C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/ALU} -O0
+vcontrol
+IfN>98<4CCmJHUdbbhFYzG0
+VEAH73T]:WCO47YVO[WKF21
+R1
+R2
+8C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/Control/control.v
+FC:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/Control/control.v
+L0 1
+R3
+r1
+31
+R4
+!i10b 1
+!s100 CHY];?ZhQNdK0VK2_1Ob40
+!s85 0
+!s108 1530229102.124000
+!s107 C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/Control/control.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/Control|C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/Control/control.v|
+!s101 -O0
+!s92 -vlog01compat -work work {+incdir+C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/Control} -O0
+vcpu
+IBi;z90A9eXjB5<Ze;T:Xa3
+VcBGF5]O[lEY=;d:@dL67D3
+R1
+R2
+8C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/cpu.v
+FC:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/cpu.v
+L0 1
+R3
+r1
+31
+R4
+!i10b 1
+!s100 =kJfz;gS8n87BlV=ASIYm2
+!s85 0
+!s108 1530229102.939000
+!s107 C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/cpu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master|C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/cpu.v|
+!s101 -O0
+Z5 !s92 -vlog01compat -work work {+incdir+C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master} -O0
+vcpu_TB
+!i10b 1
+!s100 _cAl83_SXMIYUYRVdk[622
+IGjZj=JEkH`M^;aE`W8BBN1
+VIN<IM7YNJ[7bd<2haEel`1
+R1
+w1530229067
+8C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/cpu_TB.v
+FC:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/cpu_TB.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1530229103.181000
+!s107 C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/cpu_TB.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master|C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/cpu_TB.v|
+!s101 -O0
+R4
+R5
+ncpu_@t@b
+vdatamemory
+IA9m8ZDV2GAC`an3aDm3^j3
+VZKWW5Rl10Q]lEPZ9mL5KX0
+R1
+R2
+8C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/DataMemory/datamemory.v
+FC:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/DataMemory/datamemory.v
+L0 1
+R3
+r1
+31
+R4
+!i10b 1
+!s100 Dn6om<20zM0i^`;^l:=0I3
+!s85 0
+!s108 1530229101.939000
+!s107 C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/DataMemory/datamemory.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/DataMemory|C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/DataMemory/datamemory.v|
+!s101 -O0
+!s92 -vlog01compat -work work {+incdir+C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/DataMemory} -O0
+vextend
+IeTgVnT`o:hcY0c<SPTTVc0
+Vm8RM]?30Leic][0:GU;JF3
+R1
+R2
+8C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/Extend/extend.v
+FC:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/Extend/extend.v
+L0 1
+R3
+r1
+31
+R4
+!i10b 1
+!s100 6<6S?zoY3<zJnFi9?Sh]e3
+!s85 0
+!s108 1530229101.672000
+!s107 C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/Extend/extend.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/Extend|C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/Extend/extend.v|
+!s101 -O0
+!s92 -vlog01compat -work work {+incdir+C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/Extend} -O0
+vinstructionmemory
+Iz;ETgLJmRRCFTfa;SkGoO2
+V`=Y9DH_[=0bS104z]1ZO;3
+R1
+w1530228987
+8C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/InstructionMemory/instructionmemory.v
+FC:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/InstructionMemory/instructionmemory.v
+L0 1
+R3
+r1
+31
+R4
+!i10b 1
+!s100 i;TCHQ14=9n<?X6AN^mV=2
+!s85 0
+!s108 1530229101.506000
+!s107 C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/InstructionMemory/instructionmemory.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/InstructionMemory|C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/InstructionMemory/instructionmemory.v|
+!s101 -O0
+!s92 -vlog01compat -work work {+incdir+C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/InstructionMemory} -O0
+vmux
+IWaoO]PM>GCUn66JGJ?l0V3
+V=@6BN^U^d^eHV3[2XZkHI3
+R1
+R2
+8C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/MUX/mux.v
+FC:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/MUX/mux.v
+L0 1
+R3
+r1
+31
+R4
+!i10b 1
+!s100 QTPFY2_Vzd4HohnIVkA171
+!s85 0
+!s108 1530229101.283000
+!s107 C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/MUX/mux.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/MUX|C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/MUX/mux.v|
+!s101 -O0
+!s92 -vlog01compat -work work {+incdir+C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/MUX} -O0
+vpc
+I5f4@bg=8ZXQF>;_B3mBGg1
+V:U4mZCZn[T9K>F3?mkSQ73
+R1
+R2
+8C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/PC/pc.v
+FC:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/PC/pc.v
+L0 1
+R3
+r1
+31
+R4
+!i10b 1
+!s100 P=O]i`V0[8fn0>JeIzcTm2
+!s85 0
+!s108 1530229101.028000
+!s107 C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/PC/pc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/PC|C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/PC/pc.v|
+!s101 -O0
+!s92 -vlog01compat -work work {+incdir+C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/PC} -O0
+vreg32bits
+IX3VEX1VOJ2aDPA>CK=Hd?1
+VNhV]^YS<Nic3?h2W10nb]3
+R1
+R2
+8C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/32bitsRegister/reg32bits.v
+FC:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/32bitsRegister/reg32bits.v
+L0 1
+R3
+r1
+31
+R4
+!i10b 1
+!s100 7^30AzUb``>Ihf5E23WfG0
+!s85 0
+!s108 1530229100.557000
+!s107 C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/32bitsRegister/reg32bits.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/32bitsRegister|C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/32bitsRegister/reg32bits.v|
+!s101 -O0
+!s92 -vlog01compat -work work {+incdir+C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/32bitsRegister} -O0
+vregisterfile
+I@?o`eZU`MdK<0hb2dfEo80
+VLfm0zP<QP_;8WGhSmS2`:2
+R1
+R2
+8C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/RegisterFile/registerfile.v
+FC:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/RegisterFile/registerfile.v
+L0 1
+R3
+r1
+31
+R4
+!i10b 1
+!s100 Q?l^kE0b^Xa^_3KZmodJz0
+!s85 0
+!s108 1530229100.782000
+!s107 C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/RegisterFile/registerfile.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/RegisterFile|C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/RegisterFile/registerfile.v|
+!s101 -O0
+!s92 -vlog01compat -work work {+incdir+C:/Users/fabio/Documents/Graduação/Engenharia de Computação/2018 - 1/ELTD05 - Projeto de Sistemas Digitais/Trabalho/verilogMIPS-master/RegisterFile} -O0
